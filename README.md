@@ -1,6 +1,6 @@
 ![HwDhyeon's github stats](https://github-readme-stats.vercel.app/api?username=hwdhyeon&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwdhyeon&layout=compact&theme=vue)  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hwang_Dong_Hyun&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![HwDhyeon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hwang_Dong_Hyun&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HwDhyeon/HwDhyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
